@@ -30,9 +30,7 @@ function Hero (props) {
             Gatsby Shopify Starter Site on Pantheon.
           </p>
           <p className={callToAction}>
-            Hook it up to your own Shopify store data and start customizing in
-            minutes by deploying it to Gatsby Cloud for free. Grab your Shopify
-            store credentials and
+            Pantheon WebOps.
             <a href="https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-shopify&utm_campaign=shopify-starter">
               <img
                 src="https://www.gatsbyjs.com/deploynow.png"
