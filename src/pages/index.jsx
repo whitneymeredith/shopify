@@ -30,7 +30,7 @@ function Hero (props) {
             Gatsby Shopify Starter Site on Pantheon.
           </p>
           <p className={callToAction}>
-            Pantheon WebOps.
+            Pantheon WebOps. New Decoupled Site.
             <a href="https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-shopify&utm_campaign=shopify-starter">
               <img
                 src="https://www.gatsbyjs.com/deploynow.png"
